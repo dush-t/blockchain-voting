@@ -20,7 +20,7 @@ The user will use the voting key issued to him/her to vote for a candidate of hi
 
 ## Vote Storage
 
-There will be state-wise blockchains, with each blockchain hosted on every server in a P2P format.
+There will be state-wise blockchains, with each blockchain hosted on every authorized server in a P2P format.
 
 
 
