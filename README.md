@@ -27,4 +27,4 @@ There will be state-wise blockchains, with each blockchain hosted on every serve
 
 The given flowchart provides an outline of our idea. Please start reading from "The USER" in either direction.
 
-![flowchart](https://raw.githubusercontent.com/dush-t/blockchain-voting/master/flowchart.jpeg?token=AKJFV2ITYPMXVGTSPK4APPK5HXDSY) 
+![flowchart](https://raw.githubusercontent.com/dush-t/blockchain-voting/master/Codefundo%2B%2B%20Flowchart.jpg?token=AKJFV2LUJ7NC4M3DKX2BX3S5I4GFA) 
