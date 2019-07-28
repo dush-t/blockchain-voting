@@ -15,12 +15,12 @@ The user will generate a vote request signed by his/her digital signature. The v
 
 ## During Voting
 
-The user will use the voting key issued to him/her to vote for a candidate of his/her choice.
+The user will use the voting key issued to him/her to vote for a candidate of his/her choice. This vote will then be sent to an authorized server. There will be at least 15 such highly protected servers in each state.
 
 
 ## Vote Storage
 
-There will be state-wise blockchains on which every individual vote will be stored as a block (one vote block will contain the user's data, his digital signature hash and the party he voted), with each blockchain hosted on every authorized server in a P2P format.
+There will be state-wise blockchains on which every individual vote will be stored as a block (one vote block will contain the user's data, his digital signature hash and the party he voted for), with each blockchain hosted on every authorized server in a P2P format.
 
 
 
